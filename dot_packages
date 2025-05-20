@@ -211,6 +211,7 @@ unzip
 uv
 valgrind
 vim
+vulkan-intel
 vulkan-tools
 waybar
 wev
