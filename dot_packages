@@ -19,8 +19,6 @@ discord
 docker
 docker-compose
 doomretro
-dotnet-sdk
-dotnet-sdk-8.0
 dunst
 efibootmgr
 fasm
@@ -80,7 +78,6 @@ love
 lsix
 lsof
 luanti
-ly
 man-db
 man-pages
 mariadb
