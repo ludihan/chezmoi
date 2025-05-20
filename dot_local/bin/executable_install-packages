@@ -2,4 +2,4 @@
 
 set -euo pipefail
 
-sudo pacman -S - < ~/.packages
+sudo pacman -S --noconfirm - < ~/.packages
