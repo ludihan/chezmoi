@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -euo pipefail
+
+sudo pacman -S - < ~/.packages
+yay -S - < ~/.aur-packages
